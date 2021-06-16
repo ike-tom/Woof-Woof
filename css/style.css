@@ -36,10 +36,12 @@ html, body {
 
 .nav__links--active .nav__link {
     display: flex;
+    justify-content: flex-end;
+    flex-basis: 30%;
+    padding-right: 40px;
 }
 
 .nav__links--active .nav__link-menu {
-    flex-basis: 100%;
     order: -1;
 }
 
