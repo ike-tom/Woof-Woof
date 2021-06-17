@@ -128,6 +128,7 @@ html, body {
 }
 
 .hero__header {
+    margin-top: 60px;
     font-size: 3.5rem;
 }
 
