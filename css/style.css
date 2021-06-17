@@ -242,6 +242,7 @@ html, body {
     padding-top: 2rem;
     align-items: center;
     justify-content: center;
+    min-height: 470px;
 }
 
 .testimonial-arrow {
